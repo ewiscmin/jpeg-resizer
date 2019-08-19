@@ -1,5 +1,5 @@
 "# jpeg-resizer" 
-# Description: takes ever jpeg file (ending in .jpg) in a directory, resizes it to the
+# Description: takes every jpeg file (ending in .jpg) in a directory, resizes it to the
  pixel length and width indicated on the command line. Stores each image into a directory
  called new_folder. It automatically detects landscape or portrait in the original picture.
 
