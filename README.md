@@ -9,5 +9,5 @@ edit the PATH variable to point to the directory (containing the image_resize.ex
 Go into the folder containing jpg files.
 run as follows:
 image_resize.py 1280 960
-# or, after making a dist executable with pyinstaller image_resize.py:
+# or, after making a dist executable with 'pyinstaller image_resize.py' : 
 image_resize 1280 960
